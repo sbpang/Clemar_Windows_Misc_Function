@@ -3,8 +3,8 @@ from os import listdir
 import shutil
 #baseFilePath = input("Enter Base File Path:")
 #tarFilePath = input("Enter Target File Path:")
-baseFilePath = r"C:\Users\VIRCON_admin\OneDrive - Vircon Limited\Project\Revit\python\Python Script\Copy files and rename\baseFilePath"
-tarFilePath = r"C:\Users\VIRCON_admin\OneDrive - Vircon Limited\Project\Revit\python\Python Script\Copy files and rename\tarFilePath"
+baseFilePath = r"C:\Users\xxxx\OneDrive - yyyy\Project\Revit\python\Python Script\Copy files and rename\baseFilePath"
+tarFilePath = r"C:\Users\xxxx\OneDrive - yyyy\Project\Revit\python\Python Script\Copy files and rename\tarFilePath"
 movdir = tarFilePath
 basedir = baseFilePath
 

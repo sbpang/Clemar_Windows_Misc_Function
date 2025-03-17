@@ -38,7 +38,7 @@ def get_folders_in_directory(directory):
 
 full_Path,relative_Path,file_Name_Path = [],[],{}
 
-prefix = r"\\vircon_Station\P0276_SD3222-002_ASD"
+prefix = r"\\xxx\yyyy"
 suffix = r"30_As-Built_BIM\04_Floor_level"
 
 sites = ['01 Tsuen Wan Government Primary School','02 Tsing Yi Municipal Services Building',

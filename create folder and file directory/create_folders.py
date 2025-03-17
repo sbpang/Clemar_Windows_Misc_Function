@@ -1,6 +1,6 @@
 #####################################################################
 #step 1. Parameter
-root_Path = r"\\vircon_Station\P0102_URACM\Clement\CIC BIM Object"
+root_Path = r"\\xxxx\yyyy\Clement\CIC BIM Object"
 web_Crawler_Folder = "test1" #"Web Crawler"
 other_Folder_Name = "OTHER"
 ava_Format = ['rfa','rvt','pdf','dwg','pkt','txt']
